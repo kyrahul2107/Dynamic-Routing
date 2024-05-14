@@ -19,7 +19,7 @@ const routes=[
   } ,
   {
     name:'LoginComponent',
-    path:'/LoginComponent',
+    path:'/LoginComponent/:name',
     component:LoginComponent,
 
   } ,
